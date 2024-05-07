@@ -1,0 +1,32 @@
+[
+    {
+    "name": "Кузнечик",
+    "path": "/images/grasshopper.png",
+    "city": "New York"
+    },
+    {
+    "name": "Поносик",
+    "path": "/images/poo.png",
+    "city": "Los Angeles"
+    },
+    {
+    "name": "Пиздюшонок",
+    "path": "/images/daughter.png",
+    "city": "Chicago"
+    },
+    {
+    "name": "Котенок",
+    "path": "/images/kitty.png",
+    "city": "Chicago"
+      },
+    {
+      "name": "Сыклишко",
+      "path": "/images/fear.png",
+      "city": "Chicago"
+    },
+    {
+      "name": "Лягушонок",
+      "path": "/images/frog.png",
+      "city": "Chicago"
+    }
+  ]
